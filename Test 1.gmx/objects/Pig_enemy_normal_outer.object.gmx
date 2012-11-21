@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>alarm[0]=random(120);
+            <string>alarm[0]=random(90);
 
 
 
