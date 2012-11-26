@@ -8,6 +8,10 @@
   <sprites name="sprites">
     <sprite>sprites\pig_normal</sprite>
     <sprite>sprites\Lives</sprite>
+    <sprite>sprites\Chicken_down2</sprite>
+    <sprite>sprites\Chicken_right</sprite>
+    <sprite>sprites\Chicken_up</sprite>
+    <sprite>sprites\Chicken_left</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
@@ -26,6 +30,8 @@
     <object>objects\Pig_enemy_normal_outer</object>
     <object>objects\Pig_enemy_normal_inner</object>
     <object>objects\Health_Bar</object>
+    <object>objects\Chicken_outer</object>
+    <object>objects\object6</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
