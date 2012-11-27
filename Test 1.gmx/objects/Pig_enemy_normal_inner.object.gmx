@@ -99,7 +99,7 @@ c_red,c_green,1,0,0)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//instance_destroy();
+            <string>instance_destroy();
 with(Health_Bar){
     event_perform(keyboard_key_press(vk_home),1);
 }

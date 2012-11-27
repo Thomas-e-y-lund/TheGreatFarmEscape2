@@ -77,6 +77,27 @@ alarm[1]=(1);
 {
     instance_destroy();
 }
+if(instance_position(48,368,Chicken_outer)){
+    sprite_index = Chicken_right;
+    instance_place(48,368,Chicken_outer);
+}
+if(instance_position(400,368,Chicken_outer)){
+    sprite_index =Chicken_up;
+    instance_place(400,368,Chicken_outer);
+}
+if(instance_position(400,32,Chicken_outer)){
+    sprite_index =Chicken_right;
+    instance_place(400,32,Chicken_outer)
+}
+if(instance_position(560,32,Chicken_outer)){
+    sprite_index =Chicken_down2;
+    instance_place(560,32,Chicken_outer)
+}
+if(instance_position(560,560,Chicken_outer)){
+    sprite_index =Chicken_left;
+    instance_place(560,560,Chicken_outer);
+}
+alarm[1]=1;
 </string>
           </argument>
         </arguments>
@@ -99,7 +120,7 @@ alarm[1]=(1);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>path_start(Outer,16,0,0);
+            <string>path_start(Outer,30,0,0);
 </string>
           </argument>
         </arguments>

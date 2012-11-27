@@ -55,7 +55,7 @@
     <instance objName="Pig_enemy_normal_outer" x="0" y="-16" name="inst_4E2AD76B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Pig_enemy_normal_inner" x="32" y="-16" name="inst_42BC6ABD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Chicken_outer" x="80" y="0" name="inst_48E87FEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object6" x="128" y="-48" name="inst_F5B62B4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object6" x="0" y="0" name="inst_F5B62B4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background2" x="12" y="36" w="12" h="12" xo="156" yo="145" id="10000000" name="inst_A408DA05" depth="3" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
