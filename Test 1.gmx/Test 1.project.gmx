@@ -15,6 +15,8 @@
     <sprite>sprites\Sprite_Start_button</sprite>
     <sprite>sprites\Tower_1</sprite>
     <sprite>sprites\Tower_2</sprite>
+    <sprite>sprites\Arrow</sprite>
+    <sprite>sprites\cannonball</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
