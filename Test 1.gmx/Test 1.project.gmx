@@ -35,6 +35,7 @@
     <object>objects\Object_Pig_enemy_normal_inner</object>
     <object>objects\Object_Health_Bar</object>
     <object>objects\Object_Chicken_outer</object>
+    <object>objects\Object_Chicken_inner</object>
     <object>objects\Object_object6</object>
     <object>objects\Object_Start_button</object>
   </objects>

@@ -57,6 +57,9 @@ Turn_number=1;
         repeat(10){
             instance_create(16,-48,Object_Chicken_outer);
         }
+        repeat(10){
+            instance_create(-20,-20,Object_Chicken_inner);
+        }
         Turn_ended=false;
         Turn_number=2;
     }
