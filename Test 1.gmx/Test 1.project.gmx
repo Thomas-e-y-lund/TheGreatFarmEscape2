@@ -14,6 +14,7 @@
     <sprite>sprites\Sprite_Chicken_left</sprite>
     <sprite>sprites\Sprite_Start_button</sprite>
     <sprite>sprites\Sprite_Arrow_Tower</sprite>
+    <sprite>sprites\Sprite_Tower_Arrow_Button</sprite>
     <sprite>sprites\Sprite_Cannon_Tower</sprite>
     <sprite>sprites\Sprite_Arrow</sprite>
     <sprite>sprites\Sprite_Cannonball</sprite>

@@ -55,8 +55,8 @@
     <instance objName="Object_Pig_enemy_normal_inner" x="32" y="-16" name="inst_42BC6ABD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object_Chicken_outer" x="80" y="0" name="inst_48E87FEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Object_object6" x="208" y="16" name="inst_F5B62B4E" locked="0" code="" scaleX="0.319999992847443" scaleY="0.266666680574417" colour="4294967295" rotation="0"/>
-    <instance objName="Object_Arrow_Tower" x="96" y="48" name="inst_CBDEF623" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
     <instance objName="Object_Cannon_Tower_Button" x="128" y="48" name="inst_AAFC6E06" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
+    <instance objName="Object_Arrow_Tower_Button" x="176" y="96" name="inst_CC88864E" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background2" x="12" y="36" w="12" h="12" xo="156" yo="145" id="10000000" name="inst_A408DA05" depth="3" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
