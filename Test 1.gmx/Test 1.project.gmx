@@ -6,40 +6,40 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\Sprite_pig_normal</sprite>
-    <sprite>sprites\Sprite_Lives</sprite>
-    <sprite>sprites\Sprite_Chicken_down2</sprite>
-    <sprite>sprites\Sprite_Chicken_right</sprite>
-    <sprite>sprites\Sprite_Chicken_up</sprite>
-    <sprite>sprites\Sprite_Chicken_left</sprite>
-    <sprite>sprites\Sprite_Start_button</sprite>
+    <sprite>sprites\pig_normal</sprite>
+    <sprite>sprites\Lives</sprite>
+    <sprite>sprites\Chicken_down2</sprite>
+    <sprite>sprites\Chicken_right</sprite>
+    <sprite>sprites\Chicken_up</sprite>
+    <sprite>sprites\Chicken_left</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background2</background>
     <background>background\background3</background>
-    <background>background\background4</background>
   </backgrounds>
   <paths name="paths">
-    <path>paths\Path_Outer</path>
-    <path>paths\Path_Inner</path>
+    <path>paths\Outer</path>
+    <path>paths\Inner</path>
   </paths>
   <scripts name="scripts">
     <script>scripts\script0.gml</script>
   </scripts>
   <objects name="objects">
-    <object>objects\Object_Pig_enemy_normal_outer</object>
-    <object>objects\Object_Pig_enemy_normal_inner</object>
-    <object>objects\Object_Health_Bar</object>
-    <object>objects\Object_Chicken_outer</object>
-    <object>objects\Object_object6</object>
-    <object>objects\Object_Start_button</object>
+    <object>objects\test</object>
+    <object>objects\Physical_block</object>
+    <object>objects\Pig_enemy_normal_outer</object>
+    <object>objects\Pig_enemy_normal_inner</object>
+    <object>objects\Health_Bar</object>
+    <object>objects\Chicken_outer</object>
+    <object>objects\object6</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline0</timeline>
   </timelines>
   <rooms name="rooms">
-    <room>rooms\Start_menu</room>
-    <room>rooms\Map_1</room>
+    <room>rooms\room1</room>
+    <room>rooms\room_20019239381</room>
+    <room>rooms\room2</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
