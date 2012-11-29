@@ -6,6 +6,7 @@
   <option_android_advertising_enable>false</option_android_advertising_enable>
   <option_android_advertising_key></option_android_advertising_key>
   <option_android_advertising_type>MoPub</option_android_advertising_type>
+  <option_android_amazon_iap>false</option_android_amazon_iap>
   <option_android_arch_armv5>true</option_android_arch_armv5>
   <option_android_arch_armv7>true</option_android_arch_armv7>
   <option_android_arch_mips>true</option_android_arch_mips>
@@ -162,9 +163,14 @@
   <option_textureGroup0_scaled>false</option_textureGroup0_scaled>
   <option_textureGroup_count>1</option_textureGroup_count>
   <option_textureGroups0>Default</option_textureGroups0>
+  <option_tizen_WebGL>0</option_tizen_WebGL>
   <option_tizen_app_id>http:\\yourdomain\Test 1</option_tizen_app_id>
   <option_tizen_build_version>0</option_tizen_build_version>
   <option_tizen_display_name>Test 1</option_tizen_display_name>
+  <option_tizen_flurry_enable>false</option_tizen_flurry_enable>
+  <option_tizen_flurry_id></option_tizen_flurry_id>
+  <option_tizen_google_analytics_enable>false</option_tizen_google_analytics_enable>
+  <option_tizen_google_tracking_id></option_tizen_google_tracking_id>
   <option_tizen_icon>Configs\Default\tizen\icon48.png</option_tizen_icon>
   <option_tizen_major_version>1</option_tizen_major_version>
   <option_tizen_minor_version>0</option_tizen_minor_version>
@@ -226,6 +232,9 @@
   <option_windows_runner_header>Configs\Default\windows\Runner_header.bmp</option_windows_runner_header>
   <option_windows_splash_screen>Configs\Default\windows\splash.png</option_windows_splash_screen>
   <option_windows_texture_page>2048</option_windows_texture_page>
+  <option_winphone_480_splash_image>Configs\Default\WinPhone\SplashScreenImage480.jpg</option_winphone_480_splash_image>
+  <option_winphone_720_splash_image>Configs\Default\WinPhone\SplashScreenImage720.jpg</option_winphone_720_splash_image>
+  <option_winphone_768_splash_image>Configs\Default\WinPhone\SplashScreenImage.jpg</option_winphone_768_splash_image>
   <option_winphone_advertising_appid></option_winphone_advertising_appid>
   <option_winphone_advertising_enable>false</option_winphone_advertising_enable>
   <option_winphone_advertising_key></option_winphone_advertising_key>
